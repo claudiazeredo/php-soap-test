@@ -1,5 +1,4 @@
 <?php
-
 $uri = 'http://soapclient.com/xml/soapresponder.wsdl';
 
 $client = new SoapClient($uri);
